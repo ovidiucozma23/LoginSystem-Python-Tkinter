@@ -1,5 +1,5 @@
 #################################################
-#	Filename: main_window.py
+#	Filename: change_credentials.py
 #	Author: Ovidiu
 #	Date: 2023-10-19
 #################################################
